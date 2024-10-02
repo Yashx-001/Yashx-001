@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Yash</h1>
 <h3 align="center">A developer</h3>
-<a href="http://www.linkedin.com/in/yashb-"target="blank"><img src="https://github.com/user-attachments/assets/21597f2b-0b9a-4ce5-b2c9-c96731163c59" height=20px"></a>
+<a href="http://www.linkedin.com/in/yashb-"target="blank"><img src="https://github.com/user-attachments/assets/21597f2b-0b9a-4ce5-b2c9-c96731163c59" height=30px" width="30px"></a>
+<a href="mailto:ombhajbhuje@gmail.com"target="blank"><img src="https://github.com/user-attachments/assets/dba04b6e-bd44-46cd-9e01-a6b1ceb4b665" height=30px" width="40px"></a>
 <p align="left">
 <a href="http://www.linkedin.com/in/yashb-"target=blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash bhajbuje" height="30" width="40" /></a>
 </p>
